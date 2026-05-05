@@ -400,7 +400,7 @@ Think of it as the "universal translator" for AI agents. Instead of each AI syst
 - [zachblume/autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
 - [zilliztech/claude-context](https://github.com/zilliztech/code-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [agentndx/agentndx](https://github.com/agentndx/agentndx) - AgentIndex — unified search across 15,000+ MCP services, A2A agents, and x402 APIs from 5 registries. Helps agents discover other agents and services programmatically.
+- [AgentNDX](https://agentndx.com) - Network registry for the agentic web. Discover and search 50,000+ MCP servers, A2A agents, and x402-enabled services via REST API or MCP endpoint at agentndx.com/mcp.
 
 
 ## Star History
